@@ -29,15 +29,15 @@
    print(cmd)
    
    
-   3. Now we make these python webpages executable using
+3. Now we make these python webpages executable using
    var/www/cgi-bin]# chmod +x date.py
    var/www/cgi-bin]# chmod +x cal.py
    
    
-   4. Check in the browser if these webpages are working or not using URL
+4. Check in the browser if these webpages are working or not using URL
    - http://IP/home.html
    - http://IP/cgi-bin/date.py
    - http://IP/cgi-bin/cal.py
    
-   5. Now create the flutter app
+5. Now create the flutter app
    
